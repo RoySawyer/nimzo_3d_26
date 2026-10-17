@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "خيارات إعادة تعيين المحرك"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "عرض مربع حوار خيارات إعادة تعيين المحرك"
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "لا يمكن أن يزيد عدد المحركات في بطولة المحركات عن 100 محرك."
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "خيارات استقالة المحرك"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "خيار لتثبيت نافذة خادم الشطرنج المجاني عبر الإنترنت (FICS) (الإصدار 4.4)"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "الاستسلام التلقائي للمحرك في حالة فقدان الوضع (الإصدار 4.41)"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml (الإصدار 4.41) متعدد اللغات،"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "ميزات جديدة تمت إضافتها إلى Nimzo_3d - الإصدار 4.41"
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "يُقيّم المحرك موقعه على أنه مفقود"
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "ويعرض الاستقالة."
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "هل تقبل الاستقالة؟"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "رسالة استقالة المحرك"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "لا تعرض الاستقالة مرة أخرى في هذه اللعبة"
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "تفعيل خاصية إعادة توقيع المحرك تلقائيًا"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "عتبة الاستسلام (البيادق: من -1.0 إلى -50.0)"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "الحد الأدنى لعمق البحث (الطبقات: 1 - 30)"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "عدد المنعطفات المتتالية التي تقل عن الحد الأدنى (1 - 10)"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "عدد الحركات التي تم لعبها قبل أول فحص (1 - 50)"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "خطوات الانتظار في حال رفض الاستقالة (1 - 50)"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "يتضمن ذلك عمليات كش ملك إجبارية"
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "تفعيل قواعد الانسحاب من إطلاق النار"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "ألعاب اللاعب ضد المحرك"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "استفسر قبل الاستقالة"
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "يُمكّن من إيقاف تشغيل المحرك تلقائيًا."
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "يحدد هذا المصطلح النقص العددي في عدد البيادق المطلوب لتقديم الاستسلام."
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "الحد الأدنى لعمق البحث الذي يجب أن يصل إليه المحرك قبل تقديم طلب الاستسلام."
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "عدد التحركات المتتالية التي تتجاوز الحد الأدنى"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "قبل تقديم الاستقالة."
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "عدد النقلات التي تم لعبها في اللعبة قبل تقديم طلب الاستسلام."
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "عدد المحاولات بعد الرفض قبل إمكانية تقديم الاستقالة مرة أخرى."
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "تحقق من إمكانية تقديم الاستقالة عند وجود كش ملك إجباري."
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "تحقق من استسلام المحرك في وضع إطلاق النار، إذا كان ذلك مبرراً."
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "تحقق من مطالبة المستخدم بالموافقة عندما يعرض المحرك خيار الاستسلام."
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "تتيح خاصية التنازل التلقائي عن المحرك إمكانية إيقاف المحركات الضعيفة أو المتوقفة تمامًا"
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "تقديم استقالة عادية، بدلاً من إجبارك على بذل الوقت والجهد"
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "لعب وضعية خاسرة تماماً حتى النقلة الأخيرة."
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "وصف خيارات التكوين -"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "تفعيل خاصية الاستسلام التلقائي للمحرك - حدد هذا الخيار لتمكين محرك الشطرنج من عرض الاستسلام."
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "عتبة الاستسلام - حدد عتبة التقييم العددي بالبيادق."
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "أن الوضع يجب أن يكون أسوأ من ذلك حتى يقدم المحرك استقالته."
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "القيمة الافتراضية هي -15.0 بيدق. يمكن ضبط هذه القيمة على قيمة منخفضة تصل إلى -3.0 للألعاب التي تعتمد على المحرك فقط."
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "الحد الأدنى لعمق البحث - أدخل العمق الذي يجب أن يصل إليه المحرك قبل"
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "يعرض المحرك خيار الاستسلام. هذا يمنع حدوث ارتفاعات مفاجئة في الحسابات المبكرة أو تقلبات في القيم."
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "التضحيات التكتيكية لتجنب التسبب في استقالات مذعورة."
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "عدد الحركات المتتالية الأقل من الحد الأدنى - أدخل عدد الحركات الأسوأ من"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "العتبة التي يجب تجاوزها قبل أن يعرض المحرك الاستسلام."
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "هذا فحص إضافي، وهو ضروري للمحركات التي يتم التحكم في سرعتها بشكل كبير"
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "التي لا تصل أبدًا إلى أعماق بحث أعمق."
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "الحد الأدنى لعدد الحركات في اللعبة - أدخل عدد الحركات التي يجب لعبها"
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "في مباراة قبل تقديم الاستقالة."
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "عدد الحركات التي يجب انتظارها في حالة الرفض - أدخل عدد الحركات الكاملة التي يمكن للمحرك القيام بها"
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "يتعين على النظام الانتظار بعد رفض المستخدم قبول عرض الاستقالة، قبل أن يبدأ المحرك بالعمل."
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "يعرض الاستقالة مجدداً."
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "تضمين حالات الإماتة القسرية - التحقق من تضمين حالات الإماتة القسرية، التي يتوقعها المحرك،"
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "في معايير عرض الاستقالة."
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "قد ترغب في حذف هذا الخيار، إذا كنت تريد أن تجد حلاً نهائياً لنفسك."
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "الاستسلام في وضع إطلاق النار على المحرك - تحقق من استسلام المحرك في وضع إطلاق النار،"
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "إذا تم استيفاء معايير الاستقالة الأخرى."
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "استأذن قبل الاستقالة - تحقق مما إذا كنت تريد أن يحصل المحرك على موافقة المستخدم"
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "قبل أن يستسلم في لعبة بين الإنسان والآلة."
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "في ألعاب المحركات ضد المحركات، سيستسلم المحرك بصمت."
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "دون طلب الإذن."
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "وثائق استقالة المحرك"
