@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "引擎重新设计选项"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "显示引擎重新设计选项对话框"
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "引擎锦标赛中引擎数量不能超过100台。"
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "发动机重新设计方案"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "可将免费网络国际象棋服务器 (FICS) 窗口（版本 4.4）停靠在屏幕末端的选项"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "失去位置时自动引擎放弃（版本 4.41）"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml（版本 4.41）多语言版"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "Nimzo_3d 4.41 版本新增功能"
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "引擎评估其位置已丢失"
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "并提出辞职。"
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "你接受这份辞呈吗？"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "引擎退役信息"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "不要再次提出辞职。"
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "启用引擎自动重新签名"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "认输阈值（棋子数：-1.0 至 -50.0）"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "最小搜索深度（层数：1-30）"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "连续低于阈值的回合数（1-10）"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "首次将军前已进行的棋步数（1-50）"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "如果辞职被拒绝，则采取等待策略（1-50）"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "包括强制将死"
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "启用枪战辞职规则"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "玩家对战引擎游戏"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "辞职前先问问"
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "启用发动机自动退火功能。"
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "定义提出认输所需的数字棋子劣势。"
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "引擎必须达到的最小搜索深度，才会发出放弃请求的通知。"
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "连续移动次数低于阈值"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "在提出辞职之前。"
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "在一方认输之前，棋局中已经进行的步数。"
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "在拒绝辞职后，可以再次提出辞职的次数。"
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "当出现强制将死局面时，请示意认输。"
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "检查引擎是否能在交火模式下熄火（如果情况允许）。"
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "检查是否在引擎提出退出时提示用户同意。"
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "发动机自动停止功能允许性能下降或完全失效的发动机运行。"
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "提供标准的辞职信，而不是强迫你花费时间和精力。"
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "完全处于劣势的情况下，一直走到最后一步。"
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "选项配置说明 -"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "启用引擎自动认输 - 选中此项可启用国际象棋引擎主动认输的功能。"
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "辞职阈值 - 设置以棋子为单位的数值评估阈值。"
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "只有当情况变得更糟时，引擎才会发出辞职信号。"
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "默认值为 -15.0 个兵。对于仅使用引擎对战的游戏，可以将其设置为 -3.0。"
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "最小搜索深度 - 输入引擎必须达到的搜索深度"
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "引擎会主动提出放弃。这可以防止过早出现计算峰值或波动。"
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "避免引发恐慌性辞职的策略性牺牲。"
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "连续低于阈值的步数 - 输入低于阈值的步数"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "引擎发出辞职请求前必须达到的阈值。"
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "这是额外的检查，对于大幅度节气门开启的发动机来说至关重要。"
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "永远无法达到更深的搜索深度。"
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "最少游戏步数限制 - 输入必须进行的步数。"
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "在提出辞职之前进行的一场比赛中。"
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "如果遇到拒绝，则等待的步数 - 输入引擎可以进行的完整步数"
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "必须在用户拒绝接受辞职提议后，引擎才会采取行动。"
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "再次提出辞职。"
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "包含强制将杀 - 检查是否包含引擎预见的强制将杀。"
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "在辞职要约标准中。"
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "如果你想自己想办法解决将军问题，你可以省略这一步。"
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "引擎对决模式下的退赛 - 检查引擎是否在对决模式下退赛，"
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "如果其他辞职条件均已满足。"
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "辞职前请询问 - 确认是否需要引擎获得用户的同意"
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "在人类与引擎的对抗游戏中认输之前。"
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "在引擎对战中，引擎会默默地退出比赛。"
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "未经许可。"
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "发动机退役文件"
