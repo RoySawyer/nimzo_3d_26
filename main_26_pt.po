@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "Opções de redefinição do motor"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "Exibir a caixa de diálogo de opções de resignação do mecanismo"
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "Não pode haver mais de 100 motores em um torneio de motores."
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "Opções de desligamento do motor"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "Uma opção para ancorar a janela do Free Internet Chess Server (FICS) (versão 4.4)"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "Desativação automática do motor em posição perdida (versão 4.41)"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml (versão 4.41) multilíngue,"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "Funcionalidades adicionadas ao Nimzo_3d - versão 4.41"
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "O motor avalia sua posição como perdida."
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "e oferece sua renúncia."
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "Você aceita a demissão?"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "Mensagem de desligamento do motor"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "Não se ofereça para desistir novamente neste jogo."
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "Ativar a resignação automática do mecanismo"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "Limiar de desistência (Peões: -1,0 a -50,0)"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "Profundidade mínima de pesquisa (Camadas: 1 - 30)"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "Turnos consecutivos abaixo do limiar (1 - 10)"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "Jogadas realizadas antes do primeiro xeque (1 - 50)"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "Medidas para aguardar caso a renúncia seja rejeitada (1 - 50)"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "Incluir xeque-mate forçado"
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "Ativar regras de desistência por confronto direto"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "Jogos jogador contra motor"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "Pergunte antes de se demitir."
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "Ativa o desligamento automático do motor de busca."
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "Define o déficit numérico de peões necessário para oferecer a desistência."
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "Profundidade mínima de busca que o mecanismo deve atingir antes de oferecer a opção de desistência."
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "Número de jogadas consecutivas piores que o limite"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "antes que a renúncia seja oferecida."
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "Número de lances jogados em uma partida antes de a desistência ser oferecida."
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "Número de tentativas após uma recusa antes que a demissão possa ser oferecida novamente."
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "Verifique se há uma opção para oferecer desistência quando houver um xeque-mate forçado."
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "Verifique se o motor desiste no modo de confronto direto, caso seja justificado."
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "Verifique se a opção para solicitar o consentimento do usuário quando o mecanismo oferecer a opção de desistência."
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "A Auto-Resignação do Motor permite a desativação de motores enfraquecidos ou que pararam completamente de funcionar."
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "Oferecer um pedido de demissão padrão, em vez de obrigá-lo a gastar tempo e esforço."
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "jogar uma posição completamente perdida até o último lance."
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "Descrição da configuração das opções -"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "Ativar desistência automática do motor - Marque esta opção para permitir que o motor de xadrez ofereça a opção de desistir."
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "Limiar de desistência - Defina o limiar de avaliação numérica em peões."
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "que a situação precisa ser pior do que isso, para que o motor se demita."
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "O valor padrão é -15,0 peões. Este valor pode ser definido como -3,0 para jogos que utilizam apenas o motor de jogo."
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "Profundidade mínima de pesquisa - Insira a profundidade que o mecanismo deve atingir antes de..."
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "O mecanismo oferece a opção de desistir. Isso evita picos de cálculo prematuros ou volatilidade."
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "Sacrifícios táticos para evitar renúncias por pânico."
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "Jogadas consecutivas abaixo do limite - Insira o número de jogadas piores que"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "o limite que precisa ser ultrapassado antes que o motor se ofereça para desistir."
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "Esta é uma verificação adicional, essencial para motores com aceleração máxima."
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "que nunca atingem profundidades de pesquisa mais profundas."
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "Limite mínimo de jogadas - Insira o número de jogadas que devem ser realizadas."
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "em um jogo antes da desistência ser oferecida."
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "Movimentos a aguardar em caso de recusa - Insira o número de movimentos completos que o motor realizará."
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "tem que esperar depois que o usuário recusa uma oferta de demissão, antes que o motor"
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "Oferece-se para renunciar novamente."
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "Incluir xeque-mate forçado - Verifique se a opção para incluir xeque-mate forçado, previsto pelo motor do jogo,"
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "nos critérios de oferta de demissão."
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "Você pode optar por não incluir essa parte, caso queira calcular um xeque-mate por conta própria."
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "Desistir no modo de teste de motores - Verifique se o motor desiste no modo de teste de motores."
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "se os demais critérios de demissão tiverem sido cumpridos."
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "Pergunte antes de desistir - Verifique se deseja que o mecanismo obtenha o consentimento do usuário."
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "antes de desistir em um jogo entre humano e motor de jogo."
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "Em jogos entre motores de jogo, o motor simplesmente desiste."
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "Sem pedir permissão."
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "Documentação de desligamento do motor"
