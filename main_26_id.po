@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "Opsi pengunduran diri mesin"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "Tampilkan kotak dialog opsi perubahan desain mesin"
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "Tidak boleh ada lebih dari 100 mesin dalam sebuah turnamen mesin."
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "Opsi Pengunduran Diri Mesin"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "Opsi untuk menambatkan jendela Free Internet Chess Server (FICS) (versi 4.4)"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "Pengunduran diri mesin otomatis pada posisi yang hilang (versi 4.41)"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml (versi 4.41) multibahasa,"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "Fitur yang ditambahkan ke Nimzo_3d - versi 4.41"
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "Mesin tersebut menilai posisinya sebagai hilang."
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "dan menawarkan pengunduran diri."
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "Apakah Anda menerima pengunduran diri tersebut?"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "Pesan Pengunduran Diri Mesin"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "Jangan menawarkan pengunduran diri lagi di pertandingan ini."
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "Aktifkan penandatanganan ulang mesin otomatis"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "Ambang batas pengunduran diri (Pion: -1,0 hingga -50,0)"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "Kedalaman pencarian minimum (Lapisan: 1 - 30)"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "Giliran beruntun di bawah ambang batas (1 - 10)"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "Langkah permainan yang dimainkan sebelum skak pertama (1 - 50)"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "Langkah menunggu jika pengunduran diri ditolak (1 - 50)"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "Termasuk skakmat paksa."
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "Aktifkan aturan pengunduran diri saat adu penalti"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "Permainan pemain melawan mesin"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "Tanyakan sebelum mengundurkan diri"
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "Memungkinkan pelepasan mesin secara otomatis."
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "Menentukan defisit pion numerik yang dibutuhkan untuk mengajukan pengunduran diri."
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "Kedalaman pencarian minimum yang harus dicapai mesin pencari sebelum tawaran pengunduran diri diberikan."
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "Jumlah langkah beruntun yang lebih buruk dari ambang batas"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "sebelum pengunduran diri diajukan."
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "Jumlah langkah yang dimainkan dalam permainan sebelum tawaran pengunduran diri diajukan."
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "Jumlah langkah setelah penolakan sebelum pengunduran diri dapat ditawarkan kembali."
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "Periksa untuk menawarkan pengunduran diri ketika terjadi skakmat paksa."
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "Periksa apakah mesin perlu mengundurkan diri dalam mode adu tembak, jika memang diperlukan."
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "Centang opsi untuk meminta persetujuan pengguna saat mesin menawarkan untuk mengundurkan diri."
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "Pengunduran Diri Otomatis Mesin memungkinkan mesin yang melemah atau rusak total untuk berfungsi dengan baik."
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "untuk menawarkan pengunduran diri standar, daripada memaksa Anda untuk menghabiskan waktu dan tenaga."
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "Memainkan posisi yang benar-benar kalah hingga langkah terakhir."
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "Deskripsi konfigurasi opsi -"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "Aktifkan fitur pengunduran diri otomatis mesin catur - Centang untuk mengaktifkan mesin catur agar menawarkan pengunduran diri."
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "Ambang batas pengunduran diri - Tetapkan ambang batas evaluasi numerik pada bidak catur."
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "bahwa posisinya harus lebih buruk dari itu agar mesin tersebut mengajukan pengunduran diri."
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "Nilai default adalah -15,0 bidak. Nilai ini dapat diatur serendah -3,0 untuk permainan yang hanya menggunakan mesin bidak."
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "Kedalaman pencarian minimum - Masukkan kedalaman yang harus dicapai mesin sebelum"
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "Mesin menawarkan untuk mengundurkan diri. Ini mencegah lonjakan perhitungan awal atau volatilitas."
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "pengorbanan taktis untuk menghindari pengunduran diri akibat kepanikan."
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "Giliran beruntun di bawah ambang batas - Masukkan jumlah langkah yang lebih buruk daripada"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "ambang batas yang harus dilewati sebelum mesin menawarkan untuk mengundurkan diri."
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "Ini adalah pemeriksaan tambahan, yang sangat penting untuk mesin yang sangat dibatasi aliran udaranya."
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "yang tidak pernah mencapai kedalaman pencarian yang lebih dalam."
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "Batas minimum langkah permainan - Masukkan jumlah langkah yang harus dimainkan"
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "dalam permainan sebelum pengunduran diri ditawarkan."
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "Langkah yang harus ditunggu jika terjadi penolakan - Masukkan jumlah langkah penuh yang akan dilakukan oleh mesin."
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "harus menunggu setelah pengguna menolak tawaran pengunduran diri, sebelum mesin"
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "menawarkan untuk mengundurkan diri lagi."
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "Sertakan skakmat paksa - Periksa untuk menyertakan skakmat paksa, yang diperkirakan oleh mesin catur,"
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "dalam kriteria penawaran pengunduran diri."
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "Anda mungkin ingin mengabaikan ini, jika Anda ingin mencari cara untuk melakukan skakmat sendiri."
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "Mengundurkan diri dalam mode uji performa mesin - Periksa apakah mesin mengundurkan diri dalam mode uji performa."
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "jika kriteria pengunduran diri lainnya telah terpenuhi."
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "Tanyakan sebelum mengundurkan diri - Periksa apakah Anda ingin mesin tersebut meminta persetujuan dari pengguna."
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "sebelum akhirnya menyerah dalam permainan manusia melawan mesin."
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "Dalam permainan mesin lawan mesin, mesin akan menyerah secara diam-diam."
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "tanpa meminta izin."
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "Dokumentasi Pengunduran Diri Mesin"
