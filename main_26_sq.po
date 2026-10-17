@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "Opsionet e ndërprerjes së motorit"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "Shfaq kutinë e dialogut të opsioneve të mbylljes së motorit"
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "Nuk mund të ketë më shumë se 100 motorë në një turne motorësh."
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "Opsionet e Dorëheqjes së Motorit"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "Një opsion për të lidhur dritaren e Serverit të Shahut në Internet të Lirë (FICS) (versioni 4.4)"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "Dorëheqja automatike e motorit në një pozicion të humbur (versioni 4.41)"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml (versioni 4.41) shumëgjuhësh,"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "Karakteristika të shtuara në Nimzo_3d - versioni 4.41"
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "Motori e vlerëson pozicionin e tij si të humbur"
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "dhe ofron dorëheqjen."
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "A e pranoni dorëheqjen?"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "Mesazhi i Dorëheqjes së Motorrit"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "Mos ofro përsëri dorëheqjen në këtë lojë"
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "Aktivizo mbylljen automatike të motorit"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "Pragu i dorëheqjes (Penot: -1.0 deri në -50.0)"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "Thellësia minimale e kërkimit (Shtresat: 1 - 30)"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "Kthesa të njëpasnjëshme nën pragun (1 - 10)"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "Lëvizjet e lojës të luajtura para kontrollit të parë (1 - 50)"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "Lëvizjet për të pritur nëse dorëheqja refuzohet (1 - 50)"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "Përfshi shahmat të detyruar"
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "Aktivizo rregullat e dorëheqjes nga shkëmbimi i zjarrit"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "Lojëra lojtari kundër motorit"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "Pyet para se të japësh dorëheqjen"
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "Mundëson ndërprerjen automatike të motorit."
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "Përcakton deficitin numerik të pengut të nevojshëm për të ofruar dorëheqjen."
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "Thellësia minimale e kërkimit që motori duhet të arrijë përpara se të ofrohet dorëheqje."
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "Numri i lëvizjeve të njëpasnjëshme më të këqija se pragu"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "përpara se të ofrohet dorëheqja."
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "Numri i lëvizjeve të luajtura në një lojë përpara se të ofrohet dorëheqja."
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "Numri i lëvizjeve pas një refuzimi përpara se dorëheqja të mund të ofrohet përsëri."
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "Kontrolloni për të ofruar dorëheqjen kur ka një shah-mat të detyruar."
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "Kontrolloni që motori të ndalojë së punuari në modalitetin e shkëmbimit të zjarrit, nëse është e justifikuar."
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "Kontrolloni për të kërkuar pëlqimin e përdoruesit kur motori ofron të dorëzohet."
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "Dorëheqja automatike e motorrit lejon motorë të dobësuar ose që humbasin plotësisht"
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "të ofrojë dorëheqje standarde, në vend që t'ju detyrojë të shpenzoni kohë dhe përpjekje"
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "duke luajtur një pozicion plotësisht të humbur deri në lëvizjen e fundit."
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "Përshkrimi i konfigurimit të opsioneve -"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "Aktivizo dorëheqjen automatike të motorit - Kontrolloni për të aktivizuar motorin e shahut që të ofrojë dorëheqjen"
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "Pragu i dorëheqjes - Vendos pragun numerik të vlerësimit në gurë shpine."
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "se pozicioni duhet të jetë më i keq se, që motori të ofrojë dorëheqjen."
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "Vlera fillestare është -15.0 piona. Kjo mund të vendoset deri në -3.0 për lojërat vetëm me motor."
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "Thellësia minimale e kërkimit - Vendosni thellësinë që motori duhet të arrijë përpara se"
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "motori ofron të dorëhiqet. Kjo parandalon rritjet e hershme të llogaritjeve ose luhatshmërinë"
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "sakrifica taktike nga shkaktimi i dorëheqjeve në panik."
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "Kthesat e njëpasnjëshme nën prag - Futni numrin e lëvizjeve më të këqija se"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "pragu që duhet të kalojë përpara se motori të ofrojë të japë dorëheqjen."
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "Ky është një kontroll shtesë, thelbësor për motorët me frenim të rëndë."
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "që nuk arrijnë kurrë thellësi më të thella kërkimi."
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "Limiti minimal i lëvizjeve të lojës - Vendosni numrin e lëvizjeve që duhen luajtur"
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "në një ndeshje përpara se të ofrohet dorëheqja."
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "Lëvizjet për të pritur nëse haset refuzim - Futni numrin e lëvizjeve të plota që motori"
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "duhet të presë pasi përdoruesi refuzon të pranojë një ofertë dorëheqjeje, përpara se motori"
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "ofron përsëri dorëheqjen."
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "Përfshi shah-matet e detyruara - Kontrolloni për të përfshirë matet e detyruara, të parashikuara nga motori,"
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "në kriteret e ofertës për dorëheqje."
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "Mund ta lini mënjanë këtë, nëse doni të përcaktoni një shah mat për veten tuaj."
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "Dorëheqja në shkëmbim zjarri të motorit - Kontrolloni që motori të dorëzohet në modalitetin e shkëmbimit të zjarrit,"
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "nëse janë përmbushur kriteret e tjera të dorëheqjes."
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "Pyet para se të japësh dorëheqjen - Kontrollo nëse dëshiron që motori të marrë pëlqimin nga përdoruesi"
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "përpara se të japë dorëheqjen në një lojë njeri kundër motorit."
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "Në lojërat motor kundër motorit, motori do të japë dorëheqjen në heshtje,"
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "pa kërkuar leje."
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "Dokumentacioni i Dorëheqjes së Motorrit"
