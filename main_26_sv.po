@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "Alternativ för att avbryta motorn"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "Visa dialogrutan för avgångsalternativ för motorn"
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "Det kan inte finnas fler än 100 motorer i en motorturnering."
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "Alternativ för motoravgång"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "Ett alternativ för att docka FICS-fönstret (Free Internet Chess Server) (version 4.4)"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "Automatisk motoravstängning i en förlorad position (version 4.41)"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml (version 4.41) flerspråkig,"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "Funktioner tillagda i Nimzo_3d - version 4.41"
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "Motorn utvärderar sin position som förlorad"
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "och erbjuder sig att avgå."
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "Accepterar du avskedsansökan?"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "Meddelande om motoravgång"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "Erbjud dig inte att avgå igen i det här spelet"
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "Aktivera automatisk avstängning av motorn"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "Avgångströskel (Bönder: -1,0 till -50,0)"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "Minsta sökdjup (lager: 1 - 30)"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "Konsekutiva svängar under tröskeln (1 - 10)"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "Speldrag som spelats före första kontrollen (1 - 50)"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "Försök att vänta om avsägelse avslås (1 - 50)"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "Inkludera tvingade schackmatter"
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "Aktivera regler för avgång i straffkastning"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "Spelare mot motorspel"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "Fråga innan du säger upp dig"
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "Möjliggör automatisk motoravstängning."
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "Definierar det numeriska pantunderskottet som krävs för att erbjuda resignation."
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "Minsta sökdjup som sökmotorn måste uppnå innan avgång erbjuds."
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "Antal på varandra följande drag sämre än tröskelvärdet"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "innan avskedsansökan erbjuds."
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "Antal drag spelade i ett parti innan avgång erbjuds."
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "Antal drag efter ett avslag innan avgång kan erbjudas igen."
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "Markera för att erbjuda avsked när det finns en påtvingad schackmatt."
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "Kontrollera om motorn avbryter skottlossning, om det är motiverat."
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "Markera om du vill att användaren ska ge sitt samtycke när motorn erbjuder sig att avsluta."
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "Motorns automatiska avgång möjliggör försvagade eller helt förlorade motorer"
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "att erbjuda standardmässig uppsägning, snarare än att tvinga dig att lägga tid och ansträngning"
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "spelar ut en helt förlorad position till det sista draget."
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "Beskrivning av alternativkonfiguration -"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "Aktivera automatisk avgång från schackmotorn - Markera om du vill att schackmotorn ska erbjuda sig att avgå"
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "Avgångströskel - Ställ in den numeriska utvärderingströskeln i bönder."
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "att positionen måste vara sämre än, för att motorn ska erbjuda resignation."
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "Standardvärdet är -15,0 bönder. Detta kan ställas in så lågt som -3,0 för spel som endast använder motorn."
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "Minsta sökdjup - Ange det djup som motorn måste nå innan"
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "motorn erbjuder sig att avsluta. Detta förhindrar tidiga beräkningstoppar eller volatila värden"
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "taktiska uppoffringar för att inte orsaka panikuppgångar."
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "På varandra följande drag under tröskeln - Ange antalet drag sämre än"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "tröskeln som måste passeras innan motorn erbjuder sig att avgå."
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "Detta är en extra kontroll, nödvändig för motorer med hög gaspådrag"
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "som aldrig når djupare sökdjup."
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "Minsta gräns för antal drag i spelet - Ange antalet drag som måste spelas"
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "i ett spel innan avgång erbjuds."
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "Vänteförsök om vägran påträffas - Ange antalet fullständiga försök som motorn"
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "måste vänta efter att användaren vägrar att acceptera ett avskedserbjudande, innan motorn"
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "erbjuder sig att avgå igen."
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "Inkludera tvingade schackmatter - Markera för att inkludera tvingade matter, förutsedda av motorn,"
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "i kriterierna för avgångserbjudandet."
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "Du kanske vill utelämna detta om du vill räkna ut en schackmatt åt dig själv."
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "Avgå i motorskjutning - Kontrollera om motorn ska avgå i skjutläge,"
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "om övriga avgångskriterier är uppfyllda."
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "Fråga innan du avslutar - Markera om du vill att sökmotorn ska få samtycke från användaren"
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "innan den ger upp i ett spel mellan människor och motorer."
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "I spel med motor mot motor kommer motorn tyst att ge upp,"
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "utan att be om lov."
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "Dokumentation för uppsägning av motor"
