@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "Zaɓuɓɓukan murabus daga injin"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "Nuna akwatin tattaunawa na zaɓuɓɓukan murabus na injin"
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "Ba za a iya samun injuna sama da 100 a gasar injin ba."
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "Zaɓuɓɓukan Murabus na Injin"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "Zaɓin da za a iya amfani da shi don buɗe taga Free Internet Chess Server (FICS) (sigar 4.4)"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "Murkushewar injin ta atomatik a cikin yanayin da ya ɓace (sigar 4.41)"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml (sigar 4.41) mai harsuna da yawa,"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "An ƙara fasaloli zuwa Nimzo_3d - sigar 4.41"
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "Injin yana kimanta matsayinsa a matsayin wanda ya ɓace"
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "kuma yana tayin yin murabus."
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "Shin ka yarda da murabus ɗin?"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "Saƙon Murabus daga Injin"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "Kada ka sake bayar da shawarar yin murabus a wannan wasan"
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "Kunna injin ta atomatik"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "Matsakaicin izinin yin murabus (Pawns: -1.0 zuwa -50.0)"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "Mafi ƙarancin zurfin bincike (Plies: 1 - 30)"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "Juyawa a jere a ƙasa da iyakar (1 - 10)"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "An yi wasannin kafin a fara duba su (1 - 50)"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "Za a jira idan aka ƙi amincewa da murabus (1 - 50)"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "A hada da abokan wasan check na tilas"
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "Kunna ƙa'idodin murabus daga bugun fenariti"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "Wasannin 'yan wasa da injin"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "Tambaya kafin yin murabus"
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "Yana ba da damar cire injin ta atomatik."
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "Yana bayyana gibin adadi na pawn da ake buƙata don bayar da murabus."
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "Mafi ƙarancin zurfin bincike da injin ɗin dole ne ya kai kafin a bayar da izinin yin murabus."
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "Adadin motsi a jere ya fi muni fiye da iyaka"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "kafin a yi murabus."
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "An bayar da adadin motsin da aka yi a wasa kafin a yi murabus."
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "Ana iya sake bayar da adadin motsi bayan kin amincewa kafin murabus."
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "Duba don bayar da takardar murabus idan akwai abokin aikin da aka tilasta masa."
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "Duba injin ɗin don ya yi aiki a yanayin bugun ƙwallo, idan ya dace."
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "Duba don neman izini ga mai amfani lokacin da injin ɗin ya yi tayin yin murabus."
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "Murabus ta atomatik na injin yana ba da damar raguwa ko rasa injin gaba ɗaya"
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "don yin murabus na yau da kullun, maimakon tilasta maka ka ɓatar da lokaci da ƙoƙari"
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "wasa a matsayin wanda aka rasa gaba ɗaya zuwa ga matakin ƙarshe."
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "Bayanin saitin zaɓuɓɓuka -"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "Kunna injin ta atomatik - Duba don kunna injin chess don bayar da tayin yin murabus"
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "Maƙasudin Ritaya - Saita maƙasudin kimanta lambobi a cikin pawns."
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "cewa dole ne matsayin ya fi muni fiye da, don injin ya bayar da murabus."
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "Tsarin tsoho shine pawns -15.0. Ana iya saita wannan ƙasa zuwa -3.0 don wasannin injin kawai."
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "Mafi ƙarancin zurfin bincike - Shigar da zurfin da injin dole ne ya isa kafin"
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "Injin yana bayar da shawarar yin murabus. Wannan yana hana ƙaruwar lissafi da wuri ko kuma canzawa"
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "sadaukarwa ta dabara daga haifar da firgici."
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "Juyawa a jere ƙasa da iyaka - Shigar da adadin motsi mafi muni fiye da"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "matakin da dole ne ya wuce kafin injin ya bayar da tayin yin murabus."
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "Wannan ƙarin dubawa ne, wanda yake da mahimmanci ga injunan da ke fama da matsanancin matsin lamba"
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "wanda ba ya taɓa kaiwa zurfin bincike mai zurfi."
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "Mafi ƙarancin iyaka ga motsa wasa - Shigar da adadin motsi da za a yi"
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "a wasa kafin a yi tayin yin murabus."
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "Yana jira idan aka sami ƙin amincewa - Shigar da adadin cikakken motsi da injin ɗin ya yi"
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "dole ne ya jira bayan mai amfani ya ƙi karɓar tayin murabus, kafin injin ya fara aiki"
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "yana tayin sake yin murabus."
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "Haɗa da abokan wasan check da aka tilasta musu - Duba don haɗa da abokan wasan da aka tilasta musu, waɗanda injin ya hango,"
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "a cikin sharuɗɗan tayin murabus."
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "Kuna iya son barin wannan, idan kuna son yin aiki da abokin ciniki don kanku."
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "Yi murabus a harbin injin - Duba injin don ya yi murabus a yanayin harbi,"
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "idan an cika sauran sharuɗɗan murabus."
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "Tambayi kafin yin murabus - Duba idan kana son injin ya sami izini daga mai amfani"
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "kafin ta yi murabus a wasan ɗan adam da injin."
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "A wasannin injin da injin, injin zai yi murabus a hankali,"
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "ba tare da neman izini ba."
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "Takardun Riƙe Injin"
