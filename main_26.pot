@@ -258,11 +258,11 @@ msgid "before it resigns in a human versus engine game."
 msgstr ""
 
 #: main_26.cpp:468
-msgid "In engine versus engine games, the engine will silently resign without asking"
+msgid "In engine versus engine games, the engine will silently resign,"
 msgstr ""
 
 #: main_26.cpp:470
-msgid "for permission."
+msgid "without asking for permission."
 msgstr ""
 
 #: main_26.cpp:473
