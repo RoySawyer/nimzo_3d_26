@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "گزینه‌های استعفای موتور"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "نمایش کادر محاوره‌ای گزینه‌های انصراف موتور"
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "در یک تورنمنت موتور نمی‌تواند بیش از ۱۰۰ موتور وجود داشته باشد."
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "گزینه‌های از کار افتادن موتور"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "گزینه‌ای برای اتصال پنجره سرور شطرنج اینترنتی رایگان (FICS) (نسخه ۴.۴)"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "خاموش شدن خودکار موتور در صورت از دست دادن موقعیت (نسخه ۴.۴۱)"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml (نسخه ۴.۴۱) چندزبانه،"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "ویژگی‌های اضافه شده به Nimzo_3d - نسخه ۴.۴۱"
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "موتور موقعیت خود را از دست رفته ارزیابی می‌کند"
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "و پیشنهاد استعفا می‌دهد."
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "استعفا را قبول می‌کنید؟"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "پیام انصراف موتور"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "این بازی رو دوباره پیشنهاد استعفا نده"
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "فعال کردن حالت خاموش شدن خودکار موتور"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "آستانه‌ی تسلیم (پیاده‌ها: ۱.۰- تا ۵۰.۰-)"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "حداقل عمق جستجو (لایه‌ها: ۱ - ۳۰)"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "چرخش‌های متوالی زیر آستانه (۱ تا ۱۰)"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "حرکات بازی انجام شده قبل از اولین چک (1 - 50)"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "در صورت رد استعفا، منتظر می‌ماند (1 - 50)"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "شامل مات‌های اجباری"
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "فعال کردن قوانین انصراف در ضربات پنالتی"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "بازی‌های بازیکن در مقابل موتور"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "قبل از استعفا سوال کنید"
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "فعال کردن خاموش شدن خودکار موتور."
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "کسری عددی پیاده مورد نیاز برای ارائه تسلیم را تعریف می‌کند."
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "حداقل عمق جستجویی که موتور باید قبل از ارائه پیشنهاد انصراف به آن دست یابد."
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "تعداد حرکات متوالی بدتر از آستانه"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "قبل از اینکه استعفا ارائه شود."
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "تعداد حرکات انجام شده در یک بازی قبل از ارائه پیشنهاد انصراف."
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "تعداد حرکات پس از رد شدن، قبل از استعفا که می‌توان دوباره پیشنهاد داد."
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "برای ارائه پیشنهاد تسلیم در صورت مات شدن اجباری، چک کنید."
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "در صورت لزوم، بررسی کنید که آیا موتور در حالت تیراندازی از کار افتاده است یا خیر."
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "برای درخواست رضایت کاربر هنگام پیشنهاد توقف فعالیت موتور، تیک بزنید."
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "از کار افتادن خودکار موتور، موتورهای ضعیف شده یا کاملاً از کار افتاده را ممکن می‌سازد."
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "ارائه استعفای استاندارد، به جای مجبور کردن شما به صرف زمان و تلاش"
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "بازی کردن در یک موقعیت کاملاً از دست رفته تا حرکت آخر."
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "توضیحات پیکربندی گزینه‌ها -"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "فعال کردن حالت انصراف خودکار موتور - برای فعال کردن موتور شطرنج جهت ارائه پیشنهاد انصراف، این گزینه را علامت بزنید."
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "آستانه‌ی انصراف - آستانه‌ی ارزیابی عددی را بر حسب پیاده تنظیم کنید."
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "که موقعیت باید بدتر از این باشد، تا موتور تسلیم شود."
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "مقدار پیش‌فرض -۱۵.۰ برای پیاده‌ها است. این مقدار می‌تواند برای بازی‌هایی که فقط موتور دارند، تا -۳.۰ هم تنظیم شود."
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "حداقل عمق جستجو - عمقی را که موتور باید قبل از آن به آن برسد، وارد کنید"
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "موتور پیشنهاد می‌دهد که از کار بیفتد. این کار از افزایش ناگهانی محاسبات یا نوسانات ناگهانی جلوگیری می‌کند."
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "فداکاری‌های تاکتیکی از ایجاد استعفاهای ناشی از وحشت جلوگیری می‌کنند."
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "چرخش‌های متوالی پایین‌تر از آستانه - تعداد حرکات بدتر از را وارد کنید"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "آستانه‌ای که باید از آن عبور کرد تا موتور پیشنهاد توقف بدهد."
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "این یک بررسی اضافی است که برای موتورهای با دریچه گاز زیاد ضروری است."
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "که هرگز به اعماق جستجوی عمیق‌تر نمی‌رسند."
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "حداقل تعداد حرکت مجاز برای بازی - تعداد حرکاتی که باید انجام شود را وارد کنید."
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "در یک بازی قبل از اینکه استعفا ارائه شود."
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "در صورت مواجهه با امتناع، منتظر می‌ماند - تعداد حرکات کاملی را که موتور انجام می‌دهد وارد کنید"
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "باید منتظر بماند تا کاربر از پذیرش پیشنهاد استعفا خودداری کند، قبل از اینکه موتور"
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "دوباره پیشنهاد استعفا می‌دهد."
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "شامل مات‌های اجباری - بررسی کنید که مات‌های اجباری پیش‌بینی‌شده توسط موتور را شامل شود،"
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "در معیارهای پیشنهاد استعفا."
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "اگر می‌خواهید برای خودتان یک مات کردن انجام دهید، شاید بهتر باشد این را کنار بگذارید."
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "در حالت شلیک به موتور، از کار افتادن موتور را بررسی کنید - در حالت شلیک به موتور، از کار افتادن موتور را بررسی کنید"
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "اگر سایر معیارهای استعفا رعایت شده باشد."
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "قبل از استعفا سوال کنید - بررسی کنید که آیا می‌خواهید موتور از کاربر رضایت بگیرد یا خیر"
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "قبل از اینکه در یک بازی انسان در مقابل موتور تسلیم شود."
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "در بازی‌های موتور در مقابل موتور، موتور بی‌صدا تسلیم می‌شود،"
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "بدون اینکه اجازه ای درخواست کند."
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "مستندات از کار افتادن موتور"
