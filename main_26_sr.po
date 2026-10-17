@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "Опције за отказивање мотора"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "Прикажи дијалог са опцијама за отказивање мотора"
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "У турниру мотора не може бити више од 100 мотора."
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "Опције отказивања мотора"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "Опција за усидравање прозора Бесплатног интернет шаховског сервера (FICS) (верзија 4.4)"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "Аутоматско одустајање мотора у случају изгубљене позиције (верзија 4.41)"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml (верзија 4.41) вишејезична,"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "Додате функције у Nimzo_3d - верзија 4.41"
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "Мотор процењује свој положај као изгубљен"
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "и нуди оставку."
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "Да ли прихватате оставку?"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "Порука о отказивању мотора"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "Не нуди поново оставку у овој игри"
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "Омогући аутоматско отказивање мотора"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "Праг за оставку (Пијаци: -1,0 до -50,0)"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "Минимална дубина претраге (Слојеви: 1 - 30)"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "Узастопни окрети испод прага (1 - 10)"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "Потези у игри одиграни пре прве провере (1 - 50)"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "Потези за чекање ако оставка буде одбијена (1 - 50)"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "Укључи присилне матове"
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "Омогући правила за предају након пенала"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "Игре играча против мотора"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "Питајте пре него што дате отказ"
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "Омогућава аутоматско искључивање мотора."
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "Дефинише нумерички дефицит пешака потребан за понуду оставке."
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "Минимална дубина претраге коју претраживач мора да постигне пре него што се понуди отказ."
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "Број узастопних потеза лошијих од прага"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "пре него што се понуди оставка."
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "Број одиграних потеза у партији пре него што се понуди предаја."
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "Број потеза након одбијања пре него што се оставка може поново понудити."
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "Шах да би се понудила оставка када постоји принудни шах-мат."
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "Проверите да ли мотор откаже у режиму пуцања, ако је то оправдано."
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "Означите да бисте затражили сагласност корисника када претраживач понуди одустајање."
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "Аутоматско отказивање мотора омогућава ослабљене или потпуно губитак мотора"
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "да понуди стандардну оставку, уместо да вас тера да трошите време и труд"
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "одигравајући потпуно изгубљену позицију до последњег потеза."
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "Опис конфигурације опција -"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "Омогући аутоматско остављање енџина - Означите да бисте омогућили шаховском енџину да понуди остављање"
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "Праг оставке - Поставите праг нумеричке евалуације у залагањима."
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "да положај мора бити гори него, да би мотор понудио оставку."
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "Подразумевано је -15,0 пешака. Ово може бити подешено и на -3,0 за игре које користе само мотор."
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "Минимална дубина претраге - Унесите дубину коју претраживач мора да достигне пре"
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "мотор нуди да се повуче. Ово спречава ране скокове у обрачуну или нестабилност"
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "тактичке жртве од изазивања паничних оставки."
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "Узастопни потези испод прага - Унесите број потеза лошијих од"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "праг који мора да се пређе пре него што мотор понуди да одустане."
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "Ово је додатна провера, неопходна за моторе са јаким гасом"
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "које никада не досежу веће дубине претраживања."
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "Минимални број потеза у игри - Унесите број потеза који морају бити одиграни"
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "у утакмици пре него што је понуђена оставка."
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "Потези за чекање у случају одбијања - Унесите број пуних потеза које ће мотор извршити"
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "мора да сачека након што корисник одбије да прихвати понуду за оставку, пре него што мотор"
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "поново нуди оставку."
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "Укључи принудне матове - Означите да бисте укључили принудне матове, предвиђене од стране мотора,"
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "у критеријумима за понуду оставке."
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "Можда би требало да ово изоставите ако желите да себи поставите шах-мат."
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "Одустани у режиму гашења мотора - Провери да ли мотор одустаје у режиму гашења,"
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "ако су испуњени остали критеријуми за оставку."
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "Питај пре него што поднесеш оставку - Означи ако желиш да претраживач добије сагласност од корисника"
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "пре него што одустане у игри човек против мотора."
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "У играма мотор против мотора, мотор ће тихо дати отказ,"
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "без тражења дозволе."
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "Документација о отказивању мотора"
