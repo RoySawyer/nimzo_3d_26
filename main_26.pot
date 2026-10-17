@@ -109,22 +109,6 @@ msgstr ""
 msgid "Ask before resigning"
 msgstr ""
 
-#: main_26.cpp:281
-msgid "Defaults"
-msgstr ""
-
-#: main_26.cpp:284
-msgid "OK"
-msgstr ""
-
-#: main_26.cpp:287
-msgid "Cancel"
-msgstr ""
-
-#: main_26.cpp:290
-msgid "Help"
-msgstr ""
-
 #: main_26.cpp:363
 msgid "Enables automatic engine resignation."
 msgstr ""
