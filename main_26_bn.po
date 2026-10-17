@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "ইঞ্জিন পদত্যাগ বিকল্প"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "ইঞ্জিন বাতিলের বিকল্পগুলির ডায়ালগ বক্সটি দেখান।"
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "একটি ইঞ্জিন টুর্নামেন্টে ১০০টির বেশি ইঞ্জিন থাকতে পারবে না।"
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "ইঞ্জিন পদত্যাগের বিকল্প"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "ফ্রি ইন্টারনেট দাবা সার্ভার (FICS) উইন্ডোটি ডক করার একটি বিকল্প (সংস্করণ ৪.৪)"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "অবস্থান হারিয়ে গেলে স্বয়ংক্রিয়ভাবে ইঞ্জিন বন্ধ হয়ে যাওয়া (সংস্করণ ৪.৪১)"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml (সংস্করণ 4.41) বহুভাষিক,"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "Nimzo_3d - সংস্করণ 4.41-এ নতুন ফিচার যোগ করা হয়েছে"
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "ইঞ্জিনটি তার অবস্থানকে হারিয়ে গেছে বলে মূল্যায়ন করে।"
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "এবং পদত্যাগ করার প্রস্তাব দেয়।"
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "আপনি কি পদত্যাগপত্রটি গ্রহণ করবেন?"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "ইঞ্জিন পদত্যাগ বার্তা"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "এই খেলায় আবার পদত্যাগ করার প্রস্তাব দেবেন না।"
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "ইঞ্জিন অটো-রিসাইন সক্ষম করুন"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "পদত্যাগের সীমা (পন: -১.০ থেকে -৫০.০)"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "সর্বনিম্ন অনুসন্ধানের গভীরতা (স্তর: ১ - ৩০)"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "থ্রেশহোল্ডের নিচে পরপর পালা (১ - ১০)"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "প্রথম চেকের আগে খেলা চালগুলো (১ - ৫০)"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "পদত্যাগপত্র প্রত্যাখ্যাত হলে অপেক্ষা করার পদক্ষেপ (১ - ৫০)"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "বাধ্যতামূলক চেকমেট অন্তর্ভুক্ত করুন"
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "শুটআউটে পদত্যাগের নিয়ম সক্রিয় করুন"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "খেলোয়াড় বনাম ইঞ্জিন গেম"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "পদত্যাগ করার আগে জিজ্ঞাসা করুন।"
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "স্বয়ংক্রিয়ভাবে ইঞ্জিন বন্ধ করার সুবিধা দেয়।"
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "পদত্যাগপত্র জমা দেওয়ার জন্য প্রয়োজনীয় সংখ্যাগত পন ঘাটতি নির্ধারণ করে।"
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "পদত্যাগপত্র জমা দেওয়ার আগে ইঞ্জিনটিকে অবশ্যই ন্যূনতম যে অনুসন্ধান গভীরতায় পৌঁছাতে হবে।"
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "থ্রেশহোল্ডের চেয়ে খারাপ ধারাবাহিক চালের সংখ্যা"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "পদত্যাগপত্র জমা দেওয়ার আগে।"
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "খেলায় পদত্যাগ করার আগে খেলা চালের সংখ্যা।"
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "প্রত্যাখ্যানের পর পদত্যাগপত্র পুনরায় প্রস্তাব করার আগে কতবার পদ পরিবর্তন করা যাবে।"
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "বাধ্যতামূলক চেকমেট হলে পদত্যাগপত্র জমা দেওয়ার বিকল্পটি বেছে নিন।"
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "প্রয়োজন মনে করলে, গোলাগুলির মোডে ইঞ্জিন বন্ধ হয়ে যায় কিনা তা পরীক্ষা করুন।"
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "ইঞ্জিন যখন পদত্যাগ করার প্রস্তাব দেবে, তখন ব্যবহারকারীর কাছে সম্মতি চাওয়ার জন্য চেক করুন।"
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "ইঞ্জিন অটো-রেজিগনেশন দুর্বল বা সম্পূর্ণভাবে বিকল হয়ে যাওয়া ইঞ্জিনগুলোকে অনুমতি দেয়।"
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "আপনাকে সময় ও শ্রম ব্যয় করতে বাধ্য করার পরিবর্তে, স্বাভাবিকভাবে পদত্যাগপত্র জমা দেওয়ার প্রস্তাব দেওয়া।"
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "পুরোপুরি হেরে যাওয়া একটি অবস্থানকে শেষ চাল পর্যন্ত খেলে যাওয়া।"
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "বিকল্প কনফিগারেশনের বিবরণ -"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "ইঞ্জিনের স্বয়ংক্রিয় পদত্যাগ সক্ষম করুন - দাবা ইঞ্জিনকে পদত্যাগের প্রস্তাব দেওয়ার সুযোগ দিতে এটি নির্বাচন করুন।"
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "পদত্যাগের সীমা - পন-এর সংখ্যায় মূল্যায়নের সীমা নির্ধারণ করুন।"
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "ইঞ্জিনটির পদত্যাগ করার জন্য পরিস্থিতিকে এর চেয়েও খারাপ হতে হবে।"
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "ডিফল্ট হলো -১৫.০ পন। শুধুমাত্র ইঞ্জিন চালিত গেমের জন্য এটি সর্বনিম্ন -৩.০ পর্যন্ত সেট করা যেতে পারে।"
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "সর্বনিম্ন অনুসন্ধান গভীরতা - সেই গভীরতা ইনপুট করুন যেখানে ইঞ্জিনকে অবশ্যই পৌঁছাতে হবে"
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "ইঞ্জিনটি পদত্যাগ করার প্রস্তাব দেয়। এটি অকাল গণনার আকস্মিক বৃদ্ধি বা অস্থিরতা প্রতিরোধ করে।"
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "আতঙ্ক সৃষ্টি করে পদত্যাগ ঘটানোর জন্য কৌশলগত ত্যাগ।"
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "থ্রেশহোল্ডের নিচে পরপর চাল - এর চেয়ে খারাপ চালের সংখ্যা ইনপুট করুন"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "যে সীমাটি অতিক্রম করার পরেই ইঞ্জিনটি পদত্যাগ করার প্রস্তাব দেয়।"
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "এটি একটি অতিরিক্ত পরীক্ষা, যা অতিরিক্ত থ্রটল দেওয়া ইঞ্জিনের জন্য অপরিহার্য।"
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "যেগুলো কখনোই গভীরতর অনুসন্ধানে পৌঁছায় না।"
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "খেলার সর্বনিম্ন চালের সীমা - যে কয়টি চাল খেলতে হবে তার সংখ্যা লিখুন।"
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "পদত্যাগপত্র জমা দেওয়ার আগের একটি খেলায়।"
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "অস্বীকৃতি পেলে অপেক্ষা করার চাল - ইঞ্জিনের পূর্ণ চালের সংখ্যা ইনপুট করুন।"
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "ব্যবহারকারী পদত্যাগের প্রস্তাব গ্রহণ করতে অস্বীকার করার পর, ইঞ্জিনকে অপেক্ষা করতে হয়।"
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "পুনরায় পদত্যাগ করার প্রস্তাব।"
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "অনিবার্য চেকমেট অন্তর্ভুক্ত করুন - ইঞ্জিন দ্বারা পূর্বানুমানকৃত অনিবার্য চেকমেট অন্তর্ভুক্ত করতে পরীক্ষা করুন।"
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "পদত্যাগ প্রস্তাবের মানদণ্ডে।"
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "আপনি যদি নিজের জন্য একটি চেকমেট বের করতে চান, তবে এটি বাদ দিতে পারেন।"
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "ইঞ্জিন শুটআউটে ইঞ্জিন বন্ধ হয়ে যাওয়া - শুটআউট মোডে ইঞ্জিনটি বন্ধ হয়ে যায় কিনা তা পরীক্ষা করুন।"
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "যদি পদত্যাগের অন্যান্য শর্তগুলো পূরণ করা হয়ে থাকে।"
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "পদত্যাগ করার আগে জিজ্ঞাসা করুন - যাচাই করুন আপনি চান কিনা যে ইঞ্জিনটি ব্যবহারকারীর কাছ থেকে সম্মতি নিক।"
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "মানুষ বনাম ইঞ্জিনের খেলায় পদত্যাগ করার আগে।"
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "ইঞ্জিন বনাম ইঞ্জিনের খেলায়, ইঞ্জিনটি নীরবে পদত্যাগ করবে।"
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "অনুমতি না চেয়েই"
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "ইঞ্জিন পদত্যাগের নথি"
