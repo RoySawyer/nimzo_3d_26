@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "Dzinēja nomaiņas iespējas"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "Rādīt dzinēja atlaišanas opciju dialoglodziņu"
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "Dzinēju turnīrā nevar piedalīties vairāk par 100 dzinējiem."
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "Dzinēja atkāpšanās iespējas"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "Iespēja piestiprināt bezmaksas interneta šaha servera (FICS) logu (4.4. versija)"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "Automātiska dzinēja atkāpšanās no ierastās pozīcijas (4.41. versija)"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml (4.41. versija) daudzvalodu,"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "Nimzo_3d — 4.41 versijai pievienotās funkcijas"
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "Dzinējs novērtē savu atrašanās vietu kā pazudušu"
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "un piedāvā atkāpties no amata."
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "Vai jūs pieņemat atlūgumu?"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "Dzinēja atteikšanās ziņojums"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "Šajā spēlē vairs nepiedāvāt atkāpšanos"
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "Iespējot dzinēja automātisko atkāpšanos"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "Padošanās slieksnis (Bandnieki: no -1,0 līdz -50,0)"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "Minimālais meklēšanas dziļums (slāņi: 1–30)"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "Secīgi pagriezieni zem sliekšņa (1–10)"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "Spēles gājieni pirms pirmās pārbaudes (1–50)"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "Pārejas uz gaidīšanu, ja atlūgums noraidīts (1–50)"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "Iekļaut piespiedu šaha biedrus"
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "Iespējot apšaudes izstāšanos noteikumus"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "Spēlētāja pret dzinēju spēles"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "Pirms atkāpšanās no amata pajautājiet"
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "Nodrošina automātisku dzinēja izslēgšanos."
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "Nosaka skaitlisko bandinieka deficītu, kas nepieciešams, lai piedāvātu atkāpšanos."
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "Minimālais meklēšanas dziļums, kas dzinējam jāsasniedz, pirms tiek piedāvāts atteikties."
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "Secīgu gājienu skaits, kas ir sliktāks par slieksni"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "pirms tiek piedāvāta atlūguma izteikšana."
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "Spēlē izspēlēto gājienu skaits pirms atteikšanās piedāvājuma."
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "Gājienu skaits pēc atteikuma, pirms atkāpšanos var piedāvāt atkārtoti."
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "Atzīmējiet, lai piedāvātu atkāpšanos, ja ir piespiedu mats."
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "Pārbaudiet, vai dzinējs atsakās šaušanas režīmā, ja tam ir pamats."
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "Atzīmējiet, lai lietotājam tiktu lūgta piekrišana, kad programma piedāvā aiziet."
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "Dzinēja automātiskā atteikšanās ļauj novājinātus vai pilnībā izslēgt dzinējus"
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "piedāvāt standarta atlūgumu, nevis piespiest jūs tērēt laiku un pūles"
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "pilnībā zaudētas pozīcijas izspēlēšana līdz pēdējam gājienam."
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "Opciju konfigurācijas apraksts —"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "Iespējot dzinēja automātisko atkāpšanos — atzīmējiet, lai šaha dzinējs piedāvātu atkāpšanos"
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "Atkāpšanās slieksnis — iestatiet skaitlisko novērtēšanas slieksni bandiniekiem."
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "ka pozīcijai ir jābūt sliktākai par, lai dzinējs piedāvātu atlūgumu."
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "Noklusējuma vērtība ir -15,0 bandinieku. Spēlēm, kurās tiek izmantots tikai dzinējs, to var iestatīt pat līdz -3,0."
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "Minimālais meklēšanas dziļums — ievadiet dziļumu, kas motoram jāsasniedz pirms"
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "dzinējs piedāvā atkāpties. Tas novērš priekšlaicīgu aprēķinu svārstīgumu vai svārstības"
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "taktiskie upuri, izraisot panisku atkāpšanos."
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "Secīgi pagriezieni zem sliekšņa — ievadiet gājienu skaitu, kas ir sliktāki par"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "slieksnis, kas jāpārsniedz, pirms dzinējs piedāvā atteikties."
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "Šī ir papildu pārbaude, kas ir būtiska dzinējiem ar spēcīgu droseli."
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "kas nekad nesasniedz dziļāku meklēšanas dziļumu."
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "Minimālais spēles gājienu limits — ievadiet veicamo gājienu skaitu."
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "spēlē pirms atkāpšanās piedāvāšanas."
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "Kustības, kas jāgaida, ja rodas atteikums — ievadiet pilnu kustību skaitu, ko dzinējs veica."
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "jāgaida pēc tam, kad lietotājs atsakās pieņemt atkāpšanās piedāvājumu, pirms dzinējs"
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "atkal piedāvā atkāpties no amata."
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "Iekļaut piespiedu matus — atzīmējiet, lai iekļautu piespiedu matus, ko paredz dzinējs,"
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "atkāpšanās piedāvājuma kritērijos."
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "Iespējams, vēlēsities to izlaist, ja vēlaties sev izdomāt šaha matu."
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "Atteikšanās no dzinēja apšaudes — pārbaudiet, vai dzinējs atsakās no apšaudes režīmā."
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "ja ir izpildīti pārējie atkāpšanās kritēriji."
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "Jautāt pirms atkāpšanās — atzīmējiet, ja vēlaties, lai dzinējs saņemtu lietotāja piekrišanu."
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "pirms tas atkāpjas spēlē cilvēks pret dzinēju."
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "Spēlēs “dzinējs pret dzinēju” dzinējs klusībā atkāpsies,"
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "neprasot atļauju."
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "Dzinēja atlaišanas dokumentācija"
