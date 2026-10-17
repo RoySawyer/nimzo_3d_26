@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "엔진 재사임 옵션"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "엔진 재서명 옵션 대화 상자를 표시합니다."
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "엔진 토너먼트에는 100대 이상의 엔진이 참가할 수 없습니다."
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "엔진 사임 옵션"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "무료 인터넷 체스 서버(FICS) 창(버전 4.4)을 도킹할 수 있는 옵션"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "위치 이탈 시 자동 엔진 정지 기능 (버전 4.41)"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml (버전 4.41) 다국어 지원"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "Nimzo_3d 버전 4.41에 새로운 기능이 추가되었습니다."
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "엔진은 현재 위치를 잃어버린 것으로 판단합니다."
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "그리고 사임 의사를 밝혔습니다."
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "사직서를 수리하시겠습니까?"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "엔진 사직 메시지"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "이번 경기에서 다시는 사임 의사를 밝히지 마세요."
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "엔진 자동 재서명 활성화"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "사임 임계값 (폰: -1.0 ~ -50.0)"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "최소 탐색 깊이(플라이: 1~30)"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "임계값 미만의 연속 턴 수(1~10)"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "첫 번째 체크 전에 진행된 게임 이동 수 (1 - 50)"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "사직서가 거부되면 대기하는 조치 (1 - 50)"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "강제 체크메이트를 포함하세요"
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "총격전 사퇴 규칙을 활성화합니다"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "플레이어 대 엔진 게임"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "사직하기 전에 먼저 문의하세요"
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "엔진 자동 사퇴 기능을 활성화합니다."
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "사임을 제안하기 위해 필요한 수치적 폰 부족분을 정의합니다."
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "검색 엔진이 포기 의사를 표시하기 전에 도달해야 하는 최소 검색 깊이."
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "임계값보다 나쁜 연속 이동 횟수"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "사직서를 제출하기 전에."
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "기권하기 전에 게임에서 진행된 수의 총합."
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "거절 후 사직 의사를 다시 제시하기 전까지 가능한 선택 횟수."
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "체크메이트 상황에서는 사임을 제안하는 것을 선택하세요."
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "정당한 사유가 있다면, 슈팅 모드에서 엔진이 항복하는지 확인하십시오."
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "엔진이 종료를 제안할 때 사용자에게 동의를 요청하는지 확인하십시오."
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "엔진 자동 정지 기능은 성능이 저하되거나 완전히 고장난 엔진을 작동시킬 수 있도록 합니다."
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "시간과 노력을 들이도록 강요하는 대신, 일반적인 사직서를 제출하도록 하겠습니다."
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "완전히 패배가 확정된 상황을 마지막 수까지 끌고 가는 것."
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "옵션 구성 설명 -"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "엔진 자동 기권 활성화 - 체스 엔진이 기권을 제안하도록 하려면 이 옵션을 선택하세요."
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "사임 임계값 - 폰 단위로 수치 평가 임계값을 설정합니다."
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "엔진이 작동을 멈추려면 상황이 그보다 더 나빠야 한다는 것입니다."
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "기본값은 -15.0 폰입니다. 엔진 전용 게임의 경우 이 값을 -3.0까지 낮출 수 있습니다."
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "최소 탐색 깊이 - 엔진이 도달해야 하는 최소 탐색 깊이를 입력하세요."
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "엔진이 사임을 제안합니다. 이는 초기 계산량 급증이나 변동성을 방지합니다."
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "공황 상태로 인한 사직을 유발하는 전술적 희생."
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "임계값 미만의 연속 턴 수 - 임계값보다 나쁜 턴 수를 입력하세요"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "엔진이 작동을 멈추기 전에 넘어야 하는 임계값."
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "이는 스로틀 제어가 심하게 되는 엔진에 필수적인 추가 점검 사항입니다."
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "더 깊은 탐색 깊이에 도달하지 못합니다."
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "최소 게임 이동 횟수 - 반드시 플레이해야 하는 이동 횟수를 입력하세요."
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "기권 의사를 표명하기 전의 경기 상황."
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "거절이 발생했을 경우 대기할 이동 횟수 - 엔진이 대기할 전체 이동 횟수를 입력하세요."
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "사용자가 사직 제안을 수락하지 않으면 엔진은 기다려야 합니다."
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "다시 사임 의사를 밝혔습니다."
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "강제 체크메이트 포함 - 엔진이 예측한 강제 체크메이트를 포함할지 여부를 확인합니다."
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "사직 제안 기준에 있어서."
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "혼자서 체크메이트를 계산하고 싶다면 이 부분을 생략해도 좋습니다."
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "엔진 대결 모드에서 엔진 포기 여부 확인 - 대결 모드에서 엔진이 포기하는지 확인합니다."
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "다른 사직 요건이 충족된 경우."
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "사임하기 전에 동의를 구하세요 - 엔진이 사용자로부터 동의를 얻도록 할지 여부를 확인하세요"
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "인간과 엔진의 대결에서 기권하기 전에."
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "엔진 대 엔진 게임에서 엔진은 조용히 기권할 것입니다."
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "허락을 구하지 않고."
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "엔진 사임 문서"
