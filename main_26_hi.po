@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-17 14:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_26.cpp:35
+msgid "Engine resign options"
+msgstr "इंजन पुनर्निर्धार विकल्प"
+
+#: main_26.cpp:37
+msgid "Show the engine resign options dialog box"
+msgstr "इंजन रिजाइन विकल्प संवाद बॉक्स दिखाएँ"
+
+#: main_26.cpp:39
+msgid "There cannot be more than 100 engines in an engine tournament."
+msgstr "इंजन प्रतियोगिता में 100 से अधिक इंजन नहीं हो सकते।"
+
+#: main_26.cpp:41
+msgid "Engine Resignation Options"
+msgstr "इंजन त्याग विकल्प"
+
+#: main_26.cpp:43
+msgid "An option to dock the Free Internet Chess Server (FICS) window (version 4.4)"
+msgstr "फ्री इंटरनेट चेस सर्वर (FICS) विंडो (संस्करण 4.4) को डॉक करने का विकल्प।"
+
+#: main_26.cpp:45
+msgid "Automatic engine resignation in a lost position (version 4.41)"
+msgstr "खोई हुई स्थिति में स्वचालित इंजन त्यागपत्र (संस्करण 4.41)"
+
+#: main_26.cpp:47
+msgid "Nimzo_3d_ml (version 4.41) multi-lingual,"
+msgstr "Nimzo_3d_ml (संस्करण 4.41) बहुभाषी,"
+
+#: main_26.cpp:49
+msgid "Features added to Nimzo_3d - version 4.41"
+msgstr "Nimzo_3d के संस्करण 4.41 में नई सुविधाएँ जोड़ी गईं"
+
+#: main_26.cpp:51
+msgid "The engine evaluates its position as lost"
+msgstr "इंजन अपनी स्थिति को खोया हुआ मानता है।"
+
+#: main_26.cpp:52
+msgid "and offers to resign."
+msgstr "और इस्तीफा देने की पेशकश करता है।"
+
+#: main_26.cpp:53
+msgid "Do you accept the resignation?"
+msgstr "क्या आप इस्तीफा स्वीकार करते हैं?"
+
+#: main_26.cpp:54
+msgid "Engine Resignation message"
+msgstr "इंजन त्याग संदेश"
+
+#: main_26.cpp:55
+msgid "Do not offer to resign again this game"
+msgstr "इस खेल में दोबारा इस्तीफा देने की पेशकश न करें"
+
+#: main_26.cpp:147
+msgid "Enable engine auto-resign"
+msgstr "इंजन ऑटो-रीसाइन सक्षम करें"
+
+#: main_26.cpp:159
+msgid "Resignation threshold (Pawns: -1.0 to -50.0)"
+msgstr "त्यागपत्र की सीमा (प्यादे: -1.0 से -50.0)"
+
+#: main_26.cpp:173
+msgid "Minimum search depth (Plies: 1 - 30)"
+msgstr "न्यूनतम खोज गहराई (प्लाई: 1 - 30)"
+
+#: main_26.cpp:187
+msgid "Consecutive turns below threshold (1 - 10)"
+msgstr "सीमा से नीचे लगातार मोड़ (1 - 10)"
+
+#: main_26.cpp:201
+msgid "Game moves played before first check (1 - 50)"
+msgstr "पहली चेक से पहले खेली गई चालें (1 - 50)"
+
+#: main_26.cpp:215
+msgid "Moves to wait if resignation rejected (1 - 50)"
+msgstr "यदि इस्तीफा अस्वीकृत हो जाता है तो प्रतीक्षा करने के लिए कदम (1 - 50)"
+
+#: main_26.cpp:229
+msgid "Include forced checkmates"
+msgstr "इसमें जबरन चेकमेट शामिल करें"
+
+#: main_26.cpp:241
+msgid "Enable shootout resignation rules"
+msgstr "गोलीबारी के दौरान इस्तीफे के नियमों को सक्षम करें"
+
+#: main_26.cpp:253
+msgid "Player versus engine games"
+msgstr "खिलाड़ी बनाम इंजन खेल"
+
+#: main_26.cpp:262
+msgid "Ask before resigning"
+msgstr "इस्तीफा देने से पहले पूछ लें"
+
+#: main_26.cpp:363
+msgid "Enables automatic engine resignation."
+msgstr "इंजन के स्वचालित रूप से बंद होने की सुविधा प्रदान करता है।"
+
+#: main_26.cpp:364
+msgid "Defines the numeric pawn deficit required to offer resignation."
+msgstr "यह उस संख्यात्मक प्यादा घाटे को परिभाषित करता है जो त्यागपत्र देने के लिए आवश्यक है।"
+
+#: main_26.cpp:365
+msgid "Minimum search depth the engine must attain before resignation is offered."
+msgstr "इस्तीफा देने से पहले सर्च इंजन को न्यूनतम कितनी गहराई तक सर्च करना होगा।"
+
+#: main_26.cpp:366
+msgid "Number of consecutive moves worse than threshold"
+msgstr "सीमा से भी बदतर लगातार चालों की संख्या"
+
+#: main_26.cpp:366
+msgid "before resignation is offered."
+msgstr "इस्तीफा देने से पहले।"
+
+#: main_26.cpp:367
+msgid "Number of moves played in a game before resignation is offered."
+msgstr "त्यागपत्र देने से पहले खेल में चली गई चालों की संख्या।"
+
+#: main_26.cpp:368
+msgid "Number of moves after a refusal before resignation can be offered again."
+msgstr "अस्वीकृति के बाद कितनी बार स्थानांतरण किया जा सकता है, जिसके बाद दोबारा इस्तीफा देने की पेशकश की जा सकती है।"
+
+#: main_26.cpp:369
+msgid "Check to offer resignation when there is a forced checkmate."
+msgstr "जब मजबूरन चेकमेट हो जाए तो त्यागपत्र देने के लिए चेक करें।"
+
+#: main_26.cpp:370
+msgid "Check for engine to resign in shootout mode, if justified."
+msgstr "यदि उचित हो तो गोलीबारी मोड में इंजन के इस्तीफा देने की जाँच करें।"
+
+#: main_26.cpp:371
+msgid "Check to prompt user for consent when the engine offers to resign."
+msgstr "इंजन द्वारा त्यागपत्र देने का विकल्प दिए जाने पर उपयोगकर्ता से सहमति मांगने के लिए जांच करें।"
+
+#: main_26.cpp:405
+msgid "Engine Auto-Resignation allows weakened or completely losing engines"
+msgstr "इंजन ऑटो-रेजिग्नेशन कमजोर या पूरी तरह से खराब हो चुके इंजनों की स्थिति में भी काम करता है।"
+
+#: main_26.cpp:407
+msgid "to offer standard resignation, rather than forcing you to spend time and effort"
+msgstr "आपको समय और प्रयास खर्च करने के लिए मजबूर करने के बजाय, औपचारिक रूप से इस्तीफा देने का प्रस्ताव देना।"
+
+#: main_26.cpp:409
+msgid "playing out a completely lost position to the final move."
+msgstr "अंतिम चाल तक पूरी तरह से हारी हुई स्थिति में खेलना।"
+
+#: main_26.cpp:412
+msgid "Options configuration description -"
+msgstr "विकल्प विन्यास विवरण -"
+
+#: main_26.cpp:414
+msgid "Enable engine auto-resign  -  Check to enable the chess engine to offer to resign"
+msgstr "इंजन द्वारा स्वतः त्यागपत्र स्वीकार करने की सुविधा चालू करें - शतरंज इंजन को त्यागपत्र देने का विकल्प सक्षम करने के लिए चेक करें"
+
+#: main_26.cpp:419
+msgid "Resignation threshold  -  Set the numeric evaluation threshold in pawns."
+msgstr "त्यागपत्र सीमा - प्यादों में संख्यात्मक मूल्यांकन सीमा निर्धारित करें।"
+
+#: main_26.cpp:421
+msgid "that the position has to be worse than, for the engine to offer resignation."
+msgstr "स्थिति इससे भी बदतर होनी चाहिए, तभी इंजन को इस्तीफा देना पड़ेगा।"
+
+#: main_26.cpp:423
+msgid "Default is -15.0 pawns.  This could be set as low as -3.0 for engine only games."
+msgstr "डिफ़ॉल्ट मान -15.0 प्यादे है। इंजन-आधारित गेमों के लिए इसे -3.0 तक कम किया जा सकता है।"
+
+#: main_26.cpp:426
+msgid "Minimum search depth  -  Input the depth that the engine must reach before"
+msgstr "न्यूनतम खोज गहराई - वह गहराई दर्ज करें जिस तक इंजन को पहुंचने से पहले पहुंचना आवश्यक है"
+
+#: main_26.cpp:428
+msgid "the engine offers to resign.  This prevents early calculation spikes or volatile"
+msgstr "इंजन त्यागपत्र देने का विकल्प प्रदान करता है। इससे प्रारंभिक गणना में अचानक वृद्धि या अस्थिरता को रोका जा सकता है।"
+
+#: main_26.cpp:430
+msgid "tactical sacrifices from causing panic resignations."
+msgstr "घबराहट के कारण होने वाले इस्तीफे से बचने के लिए सामरिक बलिदान।"
+
+#: main_26.cpp:433
+msgid "Consecutive turns below threshold  -  Input the number of moves worse than"
+msgstr "निर्धारित सीमा से नीचे लगातार चालें - निर्धारित सीमा से खराब चालों की संख्या दर्ज करें"
+
+#: main_26.cpp:435
+msgid "the threshold that have to pass before the engine offers to resign."
+msgstr "वह सीमा जिसे पार करने के बाद इंजन काम करना बंद कर देता है।"
+
+#: main_26.cpp:437
+msgid "This is an additional check, essential for heavily throttled engines"
+msgstr "यह एक अतिरिक्त जांच है, जो अत्यधिक थ्रॉटल वाले इंजनों के लिए आवश्यक है।"
+
+#: main_26.cpp:439
+msgid "that never reach deeper search depths."
+msgstr "जो कभी भी गहन खोज स्तरों तक नहीं पहुँच पाते।"
+
+#: main_26.cpp:442
+msgid "Minimum game move limit  -  Input the number of moves that have to be played"
+msgstr "खेल में चालों की न्यूनतम सीमा - खेली जाने वाली चालों की संख्या दर्ज करें"
+
+#: main_26.cpp:444
+msgid "in a game before resignation is offered."
+msgstr "इस्तीफा देने से पहले ही खेल में।"
+
+#: main_26.cpp:447
+msgid "Moves to wait if refusal encountered  -  Input the number of full moves that the engine"
+msgstr "अस्वीकृति मिलने पर प्रतीक्षा करने के लिए चालें - इंजन द्वारा अपेक्षित पूर्ण चालों की संख्या दर्ज करें"
+
+#: main_26.cpp:449
+msgid "has to wait after the user refuses to accept a resignation offer, before the engine"
+msgstr "उपयोगकर्ता द्वारा इस्तीफे का प्रस्ताव अस्वीकार करने के बाद ही इंजन को प्रतिक्रिया देनी होगी।"
+
+#: main_26.cpp:451
+msgid "offers to resign again."
+msgstr "उन्होंने दोबारा इस्तीफा देने की पेशकश की।"
+
+#: main_26.cpp:454
+msgid "Include forced checkmates  -  Check to include forced mates, foreseen by the engine,"
+msgstr "अनिवार्य चेकमेट शामिल करें - इंजन द्वारा अनुमानित अनिवार्य चेकमेट को शामिल करने के लिए जांच करें।"
+
+#: main_26.cpp:456
+msgid "in the resignation offer criteria."
+msgstr "इस्तीफे के प्रस्ताव के मानदंडों में।"
+
+#: main_26.cpp:458
+msgid "You may want to leave this off, if you want to work out a checkmate for yourself."
+msgstr "यदि आप स्वयं के लिए चेकमेट का तरीका निकालना चाहते हैं, तो आप इसे छोड़ सकते हैं।"
+
+#: main_26.cpp:461
+msgid "Resign in engine shootout  -  Check for the engine to resign in shootout mode,"
+msgstr "इंजन शूटआउट में इस्तीफा देना - शूटआउट मोड में इंजन के इस्तीफा देने की जांच करें।"
+
+#: main_26.cpp:463
+msgid "if the other resignation criteria have been fulfilled."
+msgstr "यदि इस्तीफे के अन्य सभी मानदंड पूरे हो चुके हों।"
+
+#: main_26.cpp:464
+msgid "Ask before resigning  -  Check if you want the engine to get consent from the user"
+msgstr "इस्तीफा देने से पहले पूछें - जांच लें कि क्या आप चाहते हैं कि इंजन उपयोगकर्ता से सहमति प्राप्त करे।"
+
+#: main_26.cpp:466
+msgid "before it resigns in a human versus engine game."
+msgstr "इससे पहले कि वह मानव बनाम इंजन के खेल में हार मान ले।"
+
+#: main_26.cpp:468
+msgid "In engine versus engine games, the engine will silently resign,"
+msgstr "इंजन बनाम इंजन वाले खेलों में, इंजन चुपचाप हार मान लेगा।"
+
+#: main_26.cpp:470
+msgid "without asking for permission."
+msgstr "बिना अनुमति मांगे।"
+
+#: main_26.cpp:473
+msgid "Engine Resignation Documentation"
+msgstr "इंजन त्यागपत्र दस्तावेज़ीकरण"
